@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Circular Progress App</string>
+    <string name="text_placeholder">-</string>
+    <string name="text_monthly">monthly</string>
+    <string name="text_miles_left">miles left</string>
+    <string name="text_charge_left">charge left</string>
+    <string name="text_battery">battery</string>
+</resources>
